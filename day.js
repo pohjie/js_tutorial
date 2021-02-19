@@ -7,5 +7,5 @@ function dayName(date) {
 
 // Returns a greeting for the given date.
 function greeting(date) {
-    return 'What's up bitch';
+    return "What's up bitch";
 }
