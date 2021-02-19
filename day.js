@@ -7,5 +7,5 @@ function dayName(date) {
 
 // Returns a greeting for the given date.
 function greeting(date) {
-  console.log(`It is ${date.getDay()}`);
+    return 'What's up bitch';
 }
